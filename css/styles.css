@@ -45,7 +45,8 @@ font-family: 'Roboto', sans-serif;
 
 #BigText{/* change the font for Projects*/
   font-family: 'Lobster', cursive;
-  font-size: 180px;
+  font-size: 80px;
+  text-align: center;
   color: #2d2e2f!important;
 }
 
@@ -54,6 +55,7 @@ font-family: 'Roboto', sans-serif;
   font-family: 'Lobster', cursive;/* change the font to Lobster*/
   font-size: 98px;
   color: #2d2e2f!important;
+  text-align: center;
 }
 
 #extra{/* change the font for paragraph*/
@@ -72,6 +74,7 @@ h2{
   font-family: 'Lobster', cursive;
   font-size: 68px;
   color: #2d2e2f!important;
+  text-align: center;
 }
 
 
@@ -79,10 +82,13 @@ footer{/* make the color of the background grey with a transparent pattern*/
   background-color: #3a3a3a;
   background-image: url("https://www.transparenttextures.com/patterns/black-linen.png");
   color: #fff;
+    text-align: center;
 }
+
 
 h4{/* change the font for every h2 to Lobster*/
     font-family: 'Lobster', cursive;
     letter-spacing: 3px;
   font-size: 62px;
+  text-align: center;
 }
