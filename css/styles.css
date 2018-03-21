@@ -1,0 +1,88 @@
+.bg-dark {
+    background-color: #2f2f2f!important;/* change the color of the navbar*/
+}
+
+.navbar-brand{
+font-family: 'Cormorant Garamond', serif;/* change the text of the navbar brand*/
+font-size: 22px;/* change the text size of the navbar brand*/
+
+}
+
+
+.btn-primary {
+    color: #fff;/* change the color of the primary button*/
+    background-color: #404040;
+    border-color: #000000;
+}
+
+#Threes{/* change the font of a particular set of text in the navbar brand*/
+font-family: 'Source Sans Pro', sans-serif;
+  font-size: 19px;
+  letter-spacing: 3px;
+}
+
+body{
+  background-image: url('../assets/img/rockywall.png');
+  background-attachment: fixed;
+}
+
+#head1{/* change the font for About*/
+  font-family: 'Lobster', cursive;
+  font-size: 58px;
+text-align: center;
+}
+
+.aboutUsSection{/* make the color of the background dark grey with a transparent pattern*/
+font-family: 'Roboto', sans-serif;
+  color: #f9f9f9;
+  background-color: #1b1b1b;
+  background-image: url("https://www.transparenttextures.com/patterns/black-linen.png");
+}
+
+#aboutme{ /* change the font for the paragraph*/
+  letter-spacing: 2px;
+}
+
+#BigText{/* change the font for Projects*/
+  font-family: 'Lobster', cursive;
+  font-size: 180px;
+  color: #2d2e2f!important;
+}
+
+
+#other{ /* change the font for other things i like to do*/
+  font-family: 'Lobster', cursive;/* change the font to Lobster*/
+  font-size: 98px;
+  color: #2d2e2f!important;
+}
+
+#extra{/* change the font for paragraph*/
+  font-family: 'Source Sans Pro', sans-serif;
+    font-size: 19px;
+    letter-spacing: 2.5px; /* space between letters to 2.5 pixels*/
+}
+
+/* change the font for every h2 to Lobster*/
+h2{
+    font-family: 'Lobster', cursive;
+}
+
+
+#Contact{/* change the font for contact to Lobster*/
+  font-family: 'Lobster', cursive;
+  font-size: 68px;
+  color: #2d2e2f!important;
+}
+
+
+footer{/* make the color of the background grey with a transparent pattern*/
+  background-color: #3a3a3a;
+  background-image: url("https://www.transparenttextures.com/patterns/black-linen.png");
+  color: #fff;
+}
+
+h4{/* change the font for every h2 to Lobster*/
+    font-family: 'Lobster', cursive;
+    letter-spacing: 3px;
+  font-size: 62px;
+}
